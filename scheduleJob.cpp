@@ -15,10 +15,6 @@ using namespace std;
 
 int currentTime=SYSTEM_START_TIME;
 
-
-
-
-
 class Job
 {
 public:
